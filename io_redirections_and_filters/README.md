@@ -1,1 +1,25 @@
-# io_redirections_and_filters
+# Shell, I/O Redirections and filters
+
+- 0-hello_world: prints "Hello, World"
+- 1-confused_smiley: prints a confused smiley
+- 2-hellofile: displays /etc/passwd
+- 3-twofiles: displays /etc/passwd and /etc/hosts
+- 4-lastlines: displays the last 10 lines of /etc/passwd
+- 5-firstlines: displays the first 10 lines of /etc/passwd
+- 6-third_line: displays the third line of iacta
+- 7-file: creates a file with a special name containing "Best School"
+- 8-cwd_state: writes ls -la into ls_cwd_content
+- 9-duplicate_last_line: duplicates the last line of iacta
+- 10-no_more_js: deletes all .js files recursively
+- 11-directories: counts directories and sub-directories
+- 12-newest_files: displays the 10 newest files
+- 13-unique: prints words that appear exactly once
+- 14-findthatword: lines containing "root" in /etc/passwd
+- 15-countthatword: counts lines containing "bin" in /etc/passwd
+- 16-whatsnext: lines with "root" and 3 lines after them
+- 17-hidethisword: lines not containing "bin" in /etc/passwd
+- 18-letteronly: lines starting with a letter in sshd_config
+- 19-AZ: replaces A with Z and c with e
+- 20-hiago: removes all c and C
+- 21-reverse: reverses its input
+- 22-users_and_homes: users and their home directories, sorted
